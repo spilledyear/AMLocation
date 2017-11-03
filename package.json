@@ -1,0 +1,21 @@
+{
+  "name": "amap-location",
+  "version": "1.0.0",
+  "description": "Cordova Plugin AMLocation created by spilledyear",
+  "cordova": {
+    "id": "amap-location",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "Cordova",
+    "Location",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "spilledyear@outlook.com",
+  "license": "MIT"
+}
