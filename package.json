@@ -17,5 +17,13 @@
     "cordova-ios"
   ],
   "author": "spilledyear@outlook.com",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spilledyear/AMLocation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spilledyear/AMLocation/issues"
+  },
+  "homepage": "https://github.com/spilledyear/AMLocation"
 }
