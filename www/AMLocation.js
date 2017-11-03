@@ -8,7 +8,7 @@ var exec = require('cordova/exec');
 function AMLocation(){}
 
 AMLocation.prototype.getLocation = function(arg0, success, error) {
-  exec(success,error,"AMLocation","getLocation",[arg0]);
+  exec(success,error,"AMLocation","getlocation",[arg0]);
 };
 
 module.exports = new AMLocation();

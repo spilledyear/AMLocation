@@ -21,7 +21,7 @@ import com.amap.api.location.AMapLocationListener;
 
 public class AMLocation extends CordovaPlugin {
 
-	private static final String ACTION_GETLOCATION = "getLocation";
+	private static final String ACTION_GETLOCATION = "getlocation";
 
 	private AMapLocationClient locationClient = null;
 	private AMapLocationClientOption locationOption = null;
