@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:rim="http://www.blackberry.com/ns/widgets"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="amap-location"
+        id="sxy-amlocation"
         version="1.0.0">
   <name>AMLocation</name>
   <description>Cordova Plugin AMLocation created by spilledyear</description>

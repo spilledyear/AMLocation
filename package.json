@@ -1,9 +1,9 @@
 {
-  "name": "amap-location",
+  "name": "sxy-amap-location",
   "version": "1.0.0",
   "description": "Cordova Plugin AMLocation created by spilledyear",
   "cordova": {
-    "id": "amap-location",
+    "id": "sxy-amlocation",
     "platforms": [
       "android",
       "ios"
