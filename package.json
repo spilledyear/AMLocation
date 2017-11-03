@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Cordova Plugin AMLocation created by spilledyear",
   "cordova": {
-    "id": "sxy-amlocation",
+    "id": "xiao-amlocation",
     "platforms": [
       "android",
       "ios"
